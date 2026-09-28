@@ -12,8 +12,6 @@ Built with the [Academic Pages](https://github.com/academicpages/academicpages.g
   - Sign Language Image Generation (Master Project, RPTU)
   - LLM Fine-tuning for Code Generation (RPTU)
   - Camera-LiDAR Fusion for 3D Object Detection (RPTU)
-- **Talks** (`_talks/`) — seminar presentation
-- **Teaching** (`_teaching/`) — course tutoring experience
 - **CV** (`_pages/cv.md`) — full CV, plus resume PDFs in `files/`
 
 ## Local development
