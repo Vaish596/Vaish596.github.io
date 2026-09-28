@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Work experience**
+<h2 style="text-transform: uppercase;">Work Experience</h2>
 
 **Master Student (Thesis) — AI-Driven Image Restoration for RSOM Skin Disease Diagnostics, German Cancer Research Center (DKFZ), Heidelberg** - 02/2026 – Present: 
   * Developed an end-to-end deep learning pipeline in PyTorch Lightning for medical image restoration
@@ -31,7 +31,7 @@ redirect_from:
   * Optimised preprocessing and deployment components, reducing inference latency under computational constraints
   * Delivered 20+ production software releases with C++ components within Agile and CI/CD workflows
 
-**Education**
+<h2 style="text-transform: uppercase;">Education</h2>
 
 **M.Sc. in Computer Science, RPTU Kaiserslautern-Landau, Germany, 2023 – present**
   * Grade: 2.0/5.0 (intermediate score)

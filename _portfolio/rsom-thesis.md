@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven Image Restoration for RSOM Skin Disease Diagnostics"
-excerpt: "End-to-end deep learning pipeline in PyTorch Lightning for photoacoustic mesoscopy image restoration, benchmarking CNN, Transformer, GAN, and diffusion architectures.<br/><img src='/images/500x300.png'>"
+excerpt: "End-to-end deep learning pipeline in PyTorch Lightning for photoacoustic mesoscopy image restoration, benchmarking CNN, Transformer, GAN, and diffusion architectures."
 collection: portfolio
 ---
 
