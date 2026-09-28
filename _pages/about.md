@@ -13,7 +13,7 @@ I am an M.Sc. Computer Science graduate with a focus on Artificial Intelligence 
 
 I am particularly interested in applying machine learning to medical imaging and developing image reconstruction methods that can support faster and more practical clinical workflows.
 
-Aside from research, I am a member of the Machine Learning group and the Theater Club at RPTU. I also love teaching — I supported 30+ students as a course tutor for topics including transformers, reinforcement learning, NLP, and LLMs.
+Aside from research, I am a member of the Machine Learning group and the Theater Club at RPTU.
 
 For more detail, check out my [CV](/cv/), [portfolio](/portfolio/), or the latest version of my [curriculum vitae (PDF)](/files/Vaishnavi_Shirbhate_Resume.pdf).
 
@@ -28,7 +28,9 @@ Education
 
 Technical Skills
 ======
-* **Programming:** Python, SQL
-* **Computer Vision & ML:** Deep Learning, Computer Vision, Generative Modelling, Transformers, PEFT, Object Detection, Image Processing, CNNs, GANs, Diffusion Models, Model Benchmarking, Quantitative Evaluation
-* **Libraries & Frameworks:** PyTorch, PyTorch Lightning, Pandas, NumPy, OpenCV, Matplotlib, MLFlow
-* **Developer Tools:** Git, GitHub, Weights & Biases, Linux, Databricks, Slurm/HPC, Jira
+* Computer Vision & Graphics: Gaussian Splatting, NeRF, Neural Rendering, OpenGL
+* Machine Learning & AI: Deep Learning, GANs, Transformers, HuggingFace, Scikit-Learn
+* Frameworks & Libraries: PyTorch, OpenCV, Django, Spring Boot
+* Programming: Python, C++, Java, JavaScript
+* Tools & Platforms: Git, Docker, Linux, SLURM
+* Data Science: NumPy, Pandas, Matplotlib
