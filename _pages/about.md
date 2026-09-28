@@ -33,7 +33,7 @@ Education
 
 Technical Skills
 ======
-*Programming: Python, SQL
-*Computer Vision & AI: Deep Learning, Transformers, PEFT, Object Detection, Image Processing, CNNs, GANs, Diffusion Models, Model Benchmarking, Quantitative Evaluation
-*Libraries & Frameworks: PyTorch, PyTorch Lightning, Pandas, NumPy, OpenCV, Matplotlib, MLFlow
-*Developer Tools: Git, GitHub, Weights & Biases, Linux, Databricks, Slurm/HPC, Jira
+* Programming: Python, SQL
+* Computer Vision & AI: Deep Learning, Transformers, PEFT, Object Detection, Image Processing, CNNs, GANs, Diffusion Models, Model Benchmarking, Quantitative Evaluation
+* Libraries & Frameworks: PyTorch, PyTorch Lightning, Pandas, NumPy, OpenCV, Matplotlib, MLFlow
+* Developer Tools: Git, GitHub, Weights & Biases, Linux, Databricks, Slurm/HPC, Jira

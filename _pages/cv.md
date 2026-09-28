@@ -22,7 +22,7 @@ redirect_from:
   * Built an end-to-end synchronisation pipeline aligning video and sensor streams into a unified dataset
   * Automated preprocessing and dataset generation workflows for computer vision experiments
 
-**06/2024 – 02/2025: Student Assistant & Course Tutor, Machine Learning Group, RPTU Kaiserslautern-Landau** - 06/2024 – 02/2025 
+**Student Assistant & Course Tutor, Machine Learning Group, RPTU Kaiserslautern-Landau** - 06/2024 – 02/2025 
   * Implemented and evaluated diffusion-based models for spatio-temporal data generation in PyTorch
   * Ran controlled experiments across different model configurations and training settings
 
@@ -45,7 +45,7 @@ redirect_from:
 
 **Technical skills**
 
-*Programming: Python, SQL
-*Computer Vision & AI: Deep Learning, Transformers, PEFT, Object Detection, Image Processing, CNNs, GANs, Diffusion Models, Model Benchmarking, Quantitative Evaluation
-*Libraries & Frameworks: PyTorch, PyTorch Lightning, Pandas, NumPy, OpenCV, Matplotlib, MLFlow
-*Developer Tools: Git, GitHub, Weights & Biases, Linux, Databricks, Slurm/HPC, Jira
+* Programming: Python, SQL
+* Computer Vision & AI: Deep Learning, Transformers, PEFT, Object Detection, Image Processing, CNNs, GANs, Diffusion Models, Model Benchmarking, Quantitative Evaluation
+* Libraries & Frameworks: PyTorch, PyTorch Lightning, Pandas, NumPy, OpenCV, Matplotlib, MLFlow
+* Developer Tools: Git, GitHub, Weights & Biases, Linux, Databricks, Slurm/HPC, Jira
