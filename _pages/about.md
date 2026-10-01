@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm **Vaishnavi Shirbhate** I am currently pursuing an M.Sc. in Computer Science with a focus on Artificial Intelligence. I have experience in computer vision, machine learning, and applied research across **medical imaging** and **automotive perception**. I have developed and evaluated deep learning methods for medical image reconstruction, worked with large-scale imaging data, and built reproducible ML pipelines using Python and PyTorch.
 
-I am particularly interested in applying machine learning to medical imaging and developing image reconstruction methods that can support faster and more practical clinical workflows.
+I am particularly interested in expanding my machine learning experience into the clinical domain and working on impactful Biomedical AI applications.
 
 Prior to this, I worked in the industry for half a decade with experience spanning across various domains with differnt roles from system engineer in automotive domain to a data analyst in business and banking domain. 
 
